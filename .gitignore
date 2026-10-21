@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+results/
+*.xlsx
+*.xls
+*.xlsm
+*.pdf
+*.parquet
+*.pkl
+*.joblib
